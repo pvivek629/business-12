@@ -1,0 +1,926 @@
+*{
+    margin: 0px;
+    font-family: "Red Rose", "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
+    
+}
+
+.first{
+    background-color: #707070;
+    height: 750px;
+    
+}
+
+.navbar{
+    display: flex;
+    padding-top: 40px;
+    margin-left: 120px;
+}
+
+.navbar1{
+    display: flex;
+    list-style-type: none;
+    margin-left: 360px;
+    margin-top: 10px;
+}
+
+.listname{
+    padding-left: 50px;
+    font-size: 20px;
+    color: #f9f9f9;
+}
+
+.talk{
+    position: absolute;
+    margin-left: 1330px;
+    font-size: 20px;
+    color: #f9f9f9;
+    border: 1px solid grey;
+    padding: 10px 50px 10px 50px;
+    cursor: pointer;
+}
+
+.nav-menu-icon{
+    display: none;
+}
+
+/* first page */
+
+.firstpage{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 190px;
+}
+
+.meeting{
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.firstright{
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+.enpower{
+    font-size: 65px;
+    color: #ecebeb;
+}
+
+.connect{
+    margin-top: 25px;
+    font-size: 24px;
+    margin-right: 20px;
+    color: #cecaca;
+}
+
+.email{
+    margin-top: 40px;
+    width: 500px;
+    height: 70px;
+    background-color: #ecebeb;
+    display: flex;
+}
+
+.email1{
+    margin-left: 20px;
+    padding-top:10px;
+}
+
+.emailadress{
+    margin-left: 5px;
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    background-color: #ecebeb;
+}
+
+.talk1{
+    width: 183px;
+    height: 52px;
+    background-color: #73a873;
+    color: #e2dfdf;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+}
+
+/* second page */
+
+.second{
+    margin-top: 200px;
+}
+
+.target{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 530px;
+    margin-right: 470px;
+    color: #252525;
+}
+
+.project{
+    margin-top: 70px;
+    margin-left: 250px;
+    display: flex;
+}
+
+.count{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+.finishedproject{
+    font-size: 22px;
+    color: #707070;
+    margin-top: 13px;
+}
+
+.enrolled{
+    margin-left: 200px;
+}
+
+.teamwork{
+    margin-left: 200px;
+}
+
+.satification{
+    margin-left: 200px;
+}
+
+.conference{
+    width: 1250px;
+    height: 800px;
+    margin-left: 200px;
+    margin-top: 90px;
+}
+
+/* Third page */
+
+.third{
+    margin-top: 220px;
+}
+
+.care{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 600px;
+    margin-right: 600px;
+    color: #252525;
+}
+
+.thirdpage{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 180px;
+}
+
+.thirdleft{
+    margin-top: 90px;
+    width: 700px;
+}
+
+.web{
+    font-size: 50px;
+    margin-right: 100px;
+    font-weight: bold;
+}
+
+.webdetail{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-right: 90px;
+    color: #707070;
+}
+
+.talk2{
+    width: 183px;
+    height: 52px;
+    background-color: #73a873;
+    color: #e2dfdf;
+    font-size: 22px;
+    border: none;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.alone{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    object-position: right 70%;
+    margin-left: 100px;
+}
+
+/* fourth Page */
+
+.fourth{
+    margin-top: 160px;
+}
+
+.fourthpage{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 180px;
+}
+
+.single{
+    width: 1100px;
+    height: 500px;
+    object-fit: cover;
+    object-position: left top;
+    margin-left: 30px;
+}
+
+.fourthright{
+    margin-top: 90px;
+    margin-left: 120px;
+}
+
+.web1{
+    font-size: 45px;
+    margin-right: 280px;
+    font-weight: bold;
+}
+
+.webdetail1{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-right: 278px;
+    color: #707070;
+}
+
+.talk2{
+    width: 183px;
+    height: 52px;
+    background-color: #73a873;
+    color: #e2dfdf;
+    font-size: 22px;
+    border: none;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+
+/* Fifth Page */
+
+.fifth{
+    margin-top: 220px;
+}
+
+.fifthpage{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 180px;
+}
+
+.fifthleft{
+    margin-top: 90px;
+    width: 700px;
+}
+
+.web3{
+    font-size: 50px;
+    margin-right: 100px;
+    font-weight: bold;
+}
+
+.webdetail3{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-right: 90px;
+    color: #707070;
+}
+
+.talk2{
+    width: 183px;
+    height: 52px;
+    background-color: #73a873;
+    color: #e2dfdf;
+    font-size: 22px;
+    border: none;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.alone3{
+    width: 490px;
+    height: 500px;
+    object-fit: cover;
+    object-position: left right;
+    margin-left: 100px;
+}
+
+/* Sixth Page */
+
+.sixth{
+    margin-top: 200px;
+}
+
+.sixthtop{
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+.sixthhead{
+    display: flex;
+}
+
+.meet1{
+    font-size: 45px;
+    width: 1000px;
+    font-weight: bold;
+}
+
+.meetinfo{
+    margin-left: 350px;
+    font-size: 25px;
+    margin-top: 12px;
+    color: #707070;
+}
+
+.sixthbottom{
+    display: flex;
+    margin-top: 70px;
+}
+
+.sixthimage{
+    width: 370px;
+    height: 500px;
+}
+
+.imagename{
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.imagedetail{
+    margin-top: 15px;
+    font-size: 20px;
+    padding-right: 70px;
+    color: #707070;
+}
+
+.secondimage{
+    margin-left: 40px;
+}
+
+.thirdimage{
+    margin-left: 40px;
+}
+
+.talk3{
+    width: 183px;
+    height: 52px;
+    background-color: #73a873;
+    color: #e2dfdf;
+    font-size: 22px;
+    border: none;
+    margin-top: 50px;
+    margin-left: 750px;
+    cursor: pointer;
+}
+
+/* footer */
+
+.footer{
+    background-color: #0a1310;
+    height: 570px;
+    margin-top: 100px;
+}
+
+.footerhead{
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+.footerlogo{
+    padding-top: 70px;
+}
+
+.socialicon{
+    background-color: #0a1310;
+    margin-left: 900px;
+    cursor: pointer;
+}
+
+.dash{
+    color: #707070;
+    margin-top: 40px;
+}
+
+.footerdetail{
+    margin-top: 70px;
+    display: flex;
+    margin-left: -36px;
+}
+
+.ourproduct{
+    list-style-type: none;
+}
+
+.listitem1{
+    font-size: 25px;
+    color: #cecaca;
+}
+
+.listitem{
+    padding-top: 20px;
+    color: #868585;
+    cursor: pointer;
+}
+
+.features{
+    margin-left: 135px;
+}
+
+.resources{
+    margin-left: 135px;
+}
+
+.company{
+    margin-left: 135px;
+}
+
+.favorite{
+    margin-left: 135px;
+}
+
+
+@media screen and (max-width: 1230px){
+    
+    .first{
+        background-color: #707070;
+        height: 750px;
+        width: 1230px;
+    }
+    
+    .navbar{
+        display: flex;
+        padding-top: 40px;
+        margin-left: 120px;
+    }
+    
+    .navbar1{
+        display: none;
+    }
+    
+    .talk{
+        display: none;
+    }
+
+    .nav-menu-icon{
+        display: block;
+        font-size: 50px;
+        margin-left: 150px;
+    }
+    
+    /* first page */
+    
+    .firstpage{
+        display: flex;
+        margin-top: 120px;
+        margin-left: 0px;
+    }
+
+    
+    .meeting{
+        display: none;
+    }
+    
+    .firstright{
+        margin-left: 130px;
+        margin-right: 200px;
+        margin-top: 20px;
+    }
+    
+    .enpower{
+        font-size: 65px;
+        color: #ecebeb;
+    }
+    
+    .connect{
+        margin-top: 25px;
+        font-size: 24px;
+        margin-right: 60px;
+        color: #cecaca;
+    }
+    
+    .email{
+        margin-top: 40px;
+        width: 500px;
+        height: 70px;
+        background-color: #ecebeb;
+        display: flex;
+    }
+    
+    .email1{
+        margin-left: 20px;
+        padding-top:10px;
+    }
+    
+    .emailadress{
+        margin-left: 5px;
+        width: 250px;
+        height: 30px;
+        font-size: 20px;
+        outline: none;
+        border: none;
+        background-color: #ecebeb;
+    }
+    
+    .talk1{
+        width: 183px;
+        height: 52px;
+        background-color: #73a873;
+        color: #e2dfdf;
+        font-size: 22px;
+        border: none;
+    }
+
+
+    /* second page */
+
+    .second{
+        margin-top: 200px;
+    }
+    
+    .target{
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+        margin-left: 50px;
+        margin-right: 210px;
+        color: #252525;
+    }
+    
+    .project{
+        margin-top: 70px;
+        margin-left: 0px;
+        flex-direction: column;
+    }
+    
+    .count{
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+        color: black;
+    }
+    
+    .finishedproject{
+        font-size: 22px;
+        color: #707070;
+        margin-top: 13px;
+        margin-left: 620px;
+    }
+
+    .finished{
+        margin-left: -150px;
+    }
+    
+    .enrolled{
+        margin-left: -150px;
+        margin-top: 40px;
+    }
+    
+    .teamwork{
+        margin-left: -150px;
+        margin-top: 40px;
+    }
+    
+    .satification{
+        margin-left: -150px;
+        margin-top: 40px;
+    }
+    
+    .conference{
+        width: 950px;
+        height: 800px;
+        margin-left: 60px;
+        margin-top: 90px;
+    }
+
+
+    /* Third page */
+
+    .third{
+        margin-top: 220px;
+    }
+
+    .care{
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+        margin-left: 0px;
+        margin-right: 60px;
+        color: #252525;
+    }
+
+    .thirdpage{
+        flex-direction: column-reverse;
+        margin-top: 55px;
+        margin-left: 230px;
+    }
+
+    .thirdleft{
+        margin-top: 90px;
+        width: 700px;
+    }
+
+    .web{
+        font-size: 50px;
+        margin-right: 100px;
+        font-weight: bold;
+    }
+
+    .webdetail{
+        margin-top: 20px;
+        font-size: 25px;
+        margin-right: 90px;
+        color: #707070;
+    }
+
+    .talk2{
+        width: 183px;
+        height: 52px;
+        background-color: #73a873;
+        color: #e2dfdf;
+        font-size: 22px;
+        border: none;
+        margin-top: 50px;
+    }
+
+    .alone{
+        width: 500px;
+        height: 500px;
+        object-fit: cover;
+        object-position: right 70%;
+        margin-left: 40px;
+    }
+
+    /* fourth Page */
+
+    .fourth{
+        margin-top: 160px;
+    }
+
+    .fourthpage{
+        flex-direction: column;
+        margin-top: 25px;
+        margin-left: 120px;
+    }
+
+    .single{
+        width: 1100px;
+        height: 500px;
+        object-fit: cover;
+        object-position: left top;
+        margin-left: 30px;
+    }
+
+    .fourthright{
+        margin-top: 90px;
+        margin-left: 120px;
+    }
+
+    .web1{
+        font-size: 45px;
+        margin-right: 280px;
+        font-weight: bold;
+    }
+
+    .webdetail1{
+        margin-top: 20px;
+        font-size: 25px;
+        margin-right: 278px;
+        color: #707070;
+    }
+
+    .talk2{
+        width: 183px;
+        height: 52px;
+        background-color: #73a873;
+        color: #e2dfdf;
+        font-size: 22px;
+        border: none;
+        margin-top: 50px;
+    }
+
+
+    /* Fifth Page */
+
+    .fifth{
+        margin-top: 220px;
+    }
+
+    .fifthpage{
+        flex-direction: column-reverse;
+        margin-top: 55px;
+        margin-left: 240px;
+    }
+
+    .fifthleft{
+        margin-top: 90px;
+        width: 700px;
+    }
+
+    .web3{
+        font-size: 50px;
+        margin-right: 100px;
+        font-weight: bold;
+    }
+
+    .webdetail3{
+        margin-top: 20px;
+        font-size: 25px;
+        margin-right: 90px;
+        color: #707070;
+    }
+
+    .talk2{
+        width: 183px;
+        height: 52px;
+        background-color: #73a873;
+        color: #e2dfdf;
+        font-size: 22px;
+        border: none;
+        margin-top: 50px;
+    }
+
+    .alone3{
+        width: 490px;
+        height: 500px;
+        object-fit: cover;
+        object-position: left right;
+        margin-left: 40px;
+    }
+
+    /* Sixth Page */
+
+    .sixth{
+        margin-top: 200px;
+    }
+
+    .sixthtop{
+        margin-left: 170px;
+        margin-right: 170px;
+    }
+
+    .sixthhead{
+        flex-direction: column;
+        margin-left: 40px;
+    }
+
+    .meet1{
+        font-size: 45px;
+        width: 1000px;
+        font-weight: bold;
+        margin-left: 20px;
+    }
+
+    .meetinfo{
+        margin-left: 0px;
+        margin-right: 70px;
+        font-size: 25px;
+        margin-top: 12px;
+        color: #707070;
+        margin-top: 30px;
+    }
+
+    .sixthbottom{
+        flex-direction: column;
+        margin-top: 70px;
+        margin-left: 150px;
+    }
+
+    .firstimage{
+        margin-left: 30px;
+    }
+
+    .secondimage{
+        margin-top: 50px;
+    }
+
+    .thirdimage{
+        margin-top: 50px;
+    }
+
+
+    .sixthimage{
+        width: 370px;
+        height: 500px;
+    }
+
+    .imagename{
+        margin-top: 20px;
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+    .imagedetail{
+        margin-top: 15px;
+        font-size: 25px;
+        padding-right: 150px;
+        color: #707070;
+    }
+
+    .secondimage{
+        margin-left: 40px;
+    }
+
+    .thirdimage{
+        margin-left: 40px;
+    }
+
+    .talk3{
+        width: 183px;
+        height: 52px;
+        background-color: #73a873;
+        color: #e2dfdf;
+        font-size: 22px;
+        border: none;
+        margin-top: 50px;
+        margin-left: 410px;
+    }
+
+    /* footer */
+
+    .footer{
+        background-color: #0a1310;
+        height: 570px;
+        margin-top: 100px;
+    }
+
+    .footerhead{
+        margin-left: 70px;
+        margin-right: 100px;
+    }
+
+    .footerlogo{
+        padding-top: 70px;
+    }
+
+    .socialicon{
+        background-color: #0a1310;
+        margin-left: 600px;
+        margin-top: -80px;
+    }
+
+    .dash{
+        color: #707070;
+        margin-top: 40px;
+    }
+
+    .footerdetail{
+        margin-top: 70px;
+        display: flex;
+        margin-left: -36px;
+    }
+
+    .ourproduct{
+        list-style-type: none;
+    }
+
+    .listitem1{
+        font-size: 25px;
+        color: #cecaca;
+    }
+
+    .listitem{
+        padding-top: 20px;
+        color: #868585;
+    }
+
+    .features{
+        margin-left: 40px;
+    }
+
+    .resources{
+        margin-left: 40px;
+    }
+
+    .company{
+        margin-left: 40px;
+    }
+
+    .favorite{
+        margin-left: 40px;
+    }
+
+
+
+
+}
+
+
+
